@@ -43,4 +43,5 @@ buildNumber.properties
 
 */testng-results.xml
 allure-results/
-*/test-output
+*/test-output/
+test-output/
