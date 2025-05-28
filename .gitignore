@@ -40,3 +40,7 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+*/testng-results.xml
+allure-results/
+*/test-output
